@@ -10,6 +10,8 @@ public class Main {
 
         userService.createUsersTable();
         userService.saveUser("Анна", "Сомойлова", (byte) 35);
-
+        userService.getAllUsers();
+        userService.cleanUsersTable();
+        userService.dropUsersTable();
     }
 }

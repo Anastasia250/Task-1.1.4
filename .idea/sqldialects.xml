@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="PostgreSQL" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;@negative&quot;:&quot;1&quot;   }  } }}" />
+    <file url="PROJECT" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@qname&quot;:&quot;c6c4e46f-cd23-454c-a0e4-1f7e28f22e00&quot;    }   }  } }}" />
+  </component>
+</project>
